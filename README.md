@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs and little typescript.**
 
-- 👨‍💻 All of my projects are available at (luismunozp.netlify.app)
+- 👨‍💻 All of my projects are available at luismunozp.netlify.app
 
 - 📫 How to reach me **luis.m.pinilla21@gmail.com**
 
